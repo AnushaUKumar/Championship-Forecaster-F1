@@ -72,10 +72,36 @@ The machine learning model successfully predicted the outcomes of the first race
 
 As shown in the table, the predictions made for the first 2024 race match the actual positions for the top 4 drivers, indicating the accuracy of the model.
 
+## Technologies Used
 
-## How to Run
+- **Python 3.x**
+- **Pandas**: For data manipulation and cleaning.
+- **NumPy**: For numerical computations.
+- **Matplotlib**: For plotting actual vs. predicted values.
+- **Scikit-learn**: For implementing machine learning models and tuning.
+- **XGBoost**: For the XGBoost Regressor model.
+  
+- ## How to Run
 To replicate the predictions:
 1. Clone this repository.
 2. Install the necessary libraries by running:
    ```bash
    pip install -r requirements.txt
+
+## Future Improvements
+
+- **Add Feature Importance**: Implement methods to explain which features are most important for predicting race positions.
+- **Add Additional Models**: Incorporate more complex models, such as neural networks, for further improvement.
+- **More Features**: Use additional features like weather conditions, tire strategy, and race incidents to improve prediction accuracy.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or raise an issue if you find any problems or have suggestions for improvements.
+
+
+
+
