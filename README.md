@@ -81,7 +81,7 @@ As shown in the table, the predictions made for the first 2024 race match the ac
 - **Scikit-learn**: For implementing machine learning models and tuning.
 - **XGBoost**: For the XGBoost Regressor model.
   
-- ## How to Run
+## How to Run
 To replicate the predictions:
 1. Clone this repository.
 2. Install the necessary libraries by running:
