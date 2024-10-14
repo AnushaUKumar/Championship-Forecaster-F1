@@ -58,12 +58,6 @@ The following machine learning models are used to predict race positions:
 
 Each model is fine-tuned using `GridSearchCV` to optimize its performance.
 
-### Hyperparameter Tuning Example for XGBoost
-Here is an example of the best hyperparameters for XGBoost after tuning:
-```bash
-Best Parameters for XGBoost: {'n_estimators': 100, 'learning_rate': 0.1, 'max_depth': 6}
-
-
 ## Race Prediction Results
 
 The machine learning model successfully predicted the outcomes of the first race of the 2024 Formula 1 season. Below are the actual results compared with the model's predictions:
