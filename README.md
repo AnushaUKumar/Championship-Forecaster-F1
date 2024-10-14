@@ -94,9 +94,6 @@ To replicate the predictions:
 - **Add Additional Models**: Incorporate more complex models, such as neural networks, for further improvement.
 - **More Features**: Use additional features like weather conditions, tire strategy, and race incidents to improve prediction accuracy.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
